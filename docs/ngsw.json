@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1624182688042,
+  "timestamp": 1624185749118,
   "index": "https://github.com/PioBarGit/PWAangular/index.html",
   "assetGroups": [
     {
@@ -52,7 +52,7 @@
     "https://github.com/PioBarGit/PWAangular/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://github.com/PioBarGit/PWAangular/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://github.com/PioBarGit/PWAangular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://github.com/PioBarGit/PWAangular/index.html": "b7890d568c7b0dc786937917749a1e141b2a1df1",
+    "https://github.com/PioBarGit/PWAangular/index.html": "9343f111f3c4629184324640767c251909719c46",
     "https://github.com/PioBarGit/PWAangular/main.b37755f29a6a11805212.js": "60f948c5a4500094c67cf041085e154765774998",
     "https://github.com/PioBarGit/PWAangular/manifest.webmanifest": "92631118662e5370cb2dcfe46d04edc718666a99",
     "https://github.com/PioBarGit/PWAangular/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
